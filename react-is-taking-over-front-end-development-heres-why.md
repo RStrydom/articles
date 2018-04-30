@@ -22,18 +22,19 @@ Speak to any React Dev and you will quickly be overwhelmed by a barrage of buzzw
 - *HTML and CSS application* : Everything in React is JavaScript. Every HTML structure is expressed through JSX while the latest trends add CSS management inside JS as well.
 - *One-way data flow* : Using JSX React has the ability to provide this pattern taken from functional programming that keeps pieces of code responsible for one thing only and as a result limits unwanted side effects that could lead to difficulty in testing and unexpected bugs. As the name suggests data only flows from the top down - this allows React to easily track and predict UI changes.
 - *Virtual DOM* : This is what makes React Fast. Instead of making continuous updates to the DOM, React compares the difference of one state of your application to the next and then only updates the small pieces of UI that have changed. This essentially replaces the manual process one would use with jQuery.
-resources to learn and write React readily available on the net.
 - *Try it out incrementally* : If you are still wondering if React is the way to go - you do not have to put all your eggs in one basket. You can drop a React component inside your existing application!
 - *Latest Standards* : React also uses the latest standards in the JavaScript community which makes both its source code and the code that it's users write compatible and in line with industry standards. A popular library Babel is commonly used to convert any code that is not supported for legacy browsers if required.
 - *Server-Side-Rendering(SSR)* :  Is the ability of a front-end framework to render markup while running on a back-end system. This allows for much faster times for the initial page render (especially useful on slow connections) and provides fully indexable HTML pages which are great for SEO.
-- *React Native* : React has the carries the mantra of "Learn Once, Write Anywhere" as with trying React out incrementally and SSR, react doesn't make assumptions about the rest of your technology stack. This has lead to the rise of the very popular React Native which uses all the React features to easily build your Android and iOS applications from the same code base.
+- *React Native* : React carries the mantra of "Learn Once, Write Anywhere" as with trying React out incrementally and SSR, react doesn't make assumptions about the rest of your technology stack. This has lead to the rise of the very popular React Native which uses all the React features to easily build your Android and iOS applications from the same code base.
 - *Open Source* : Although not a feature in the code itself this is still a very important aspect that has made React so popular and widely used.
-- *Large Community* : As a result of Facebook and React's popularity it has amassed a cult of its own and there are hundreds to thousands of people providing help, additional libraries and 
+- *Large Community* : As a result of Facebook and React's popularity it has amassed a cult of its own and there are hundreds to thousands of people providing help, additional libraries and resources to learn and write React readily available on the net.
 
 ## Why you should use React for your project
 
 - React allows enterprises to craft apps with better UI to enhance user experiences. This is the technology you need for better user engagement, higher click-through-rates, and conversions.
 - Businesses that use ReactJS are assured of better performance compared to those that use other frameworks. Because React helps to prevent updating of DOM, it means that the apps will be faster and deliver better UX.
-- React was designed to help improve the total rendered pages from the website server. Besides, it utilizes nodes to render on the client-side. Having the capability to modify built tooling and even scale back on maintenance budgets makes ReactJS highly efficient.
+- React was designed to help improve the total rendered pages from the website server. It utilizes nodes to render on the client-side. Having the capability to modify built tooling and even scale back on maintenance budgets making ReactJS highly efficient.
 
-With all these great features and resources it is important that your application is crafted professionally and in line with the best practices. At SovTech we have some of the best React and React Native Developers in the country. For the best advice on how you can make use of React to accelerate growth, cut on costs, and raise conversion rates - START A PROJECT with us today.
+With all these great features and resources it is important that your application is crafted professionally and in line with the best practices.
+
+At SovTech we have some of the best React and React Native Developers in the country. For the best advice on how you can make use of React to accelerate growth, cut on costs, and raise conversion rates - START A PROJECT with us today.
